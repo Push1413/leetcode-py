@@ -1,13 +1,16 @@
 def productExceptSelf(nums):
-    ans = []
+    ans = [1] * len(nums)
     n=1
-    for i in nums:
+    for i in range(len(nums)):
         ans[i] = n
         n = n * nums[i]
 
     n=1
-    for i in reversed(nums):
-        
+    for i in reversed(range(len(nums))):
+        ans[i] *= n
+        n = n* nums[i]
+
+    return ans
 
 
 
