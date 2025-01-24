@@ -15,6 +15,6 @@ def longestConsecutive(nums)-> int:
 
 
 if __name__ == '__main__':
-    num = [0,3,7,2,5,8,4,6,0,1];
-    print(longestConsecutive(num));
+    num = [0,3,7,2,5,8,4,6,0,1]
+    print(longestConsecutive(num))
 
