@@ -20,5 +20,9 @@ def removeNthFromEnd(head, n):
 if __name__ == '__main__':
     ll = LinkedList()
     ll.append(1)
-    ans = removeNthFromEnd(ll.head, 1)
+    ll.append(2)
+    ll.append(3)
+    ll.append(4)
+    ll.append(5)
+    ans = removeNthFromEnd(ll.head, 2)
     ll.display(ans)
