@@ -36,6 +36,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Push1413/leetcode-py/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Push1413/leetcode-py/tree/master/0020-valid-parentheses) |
 ## Math
 |  |
@@ -53,4 +54,12 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Push1413/leetcode-py/tree/master/0074-search-a-2d-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Push1413/leetcode-py/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Push1413/leetcode-py/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
