@@ -10,6 +10,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Push1413/leetcode-py/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Push1413/leetcode-py/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Push1413/leetcode-py/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/Push1413/leetcode-py/tree/master/0169-majority-element) |
 | [0739-daily-temperatures](https://github.com/Push1413/leetcode-py/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Push1413/leetcode-py/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Push1413/leetcode-py/tree/master/0883-car-fleet) |
@@ -50,6 +51,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Push1413/leetcode-py/tree/master/0169-majority-element) |
 | [0883-car-fleet](https://github.com/Push1413/leetcode-py/tree/master/0883-car-fleet) |
 ## Binary Search
 |  |
@@ -65,6 +67,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Push1413/leetcode-py/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Push1413/leetcode-py/tree/master/0169-majority-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -73,4 +76,12 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Push1413/leetcode-py/tree/master/0050-powx-n) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Push1413/leetcode-py/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Push1413/leetcode-py/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
