@@ -45,6 +45,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Push1413/leetcode-py/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Push1413/leetcode-py/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Sorting
 |  |
@@ -68,4 +69,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Push1413/leetcode-py/tree/master/0003-longest-substring-without-repeating-characters) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Push1413/leetcode-py/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
