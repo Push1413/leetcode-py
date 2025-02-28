@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Push1413/leetcode-py/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Push1413/leetcode-py/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Push1413/leetcode-py/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Push1413/leetcode-py/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Push1413/leetcode-py/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Push1413/leetcode-py/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Sorting
 |  |
@@ -88,4 +90,8 @@
 | ------- |
 | [0169-majority-element](https://github.com/Push1413/leetcode-py/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Push1413/leetcode-py/tree/master/0229-majority-element-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Push1413/leetcode-py/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
