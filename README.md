@@ -49,6 +49,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Push1413/leetcode-py/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Push1413/leetcode-py/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Push1413/leetcode-py/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Push1413/leetcode-py/tree/master/0070-climbing-stairs) |
@@ -82,6 +83,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Push1413/leetcode-py/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Push1413/leetcode-py/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Push1413/leetcode-py/tree/master/0050-powx-n) |
 ## Divide and Conquer
@@ -104,5 +106,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Push1413/leetcode-py/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Push1413/leetcode-py/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
