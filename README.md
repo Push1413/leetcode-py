@@ -13,6 +13,7 @@
 | [0169-majority-element](https://github.com/Push1413/leetcode-py/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Push1413/leetcode-py/tree/master/0229-majority-element-ii) |
 | [0739-daily-temperatures](https://github.com/Push1413/leetcode-py/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/Push1413/leetcode-py/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Push1413/leetcode-py/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Push1413/leetcode-py/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Push1413/leetcode-py/tree/master/0907-koko-eating-bananas) |
@@ -27,6 +28,7 @@
 | [0062-unique-paths](https://github.com/Push1413/leetcode-py/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Push1413/leetcode-py/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Push1413/leetcode-py/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0747-min-cost-climbing-stairs](https://github.com/Push1413/leetcode-py/tree/master/0747-min-cost-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
