@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Push1413/leetcode-py/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Push1413/leetcode-py/tree/master/0045-jump-game-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Push1413/leetcode-py/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Push1413/leetcode-py/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Push1413/leetcode-py/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Push1413/leetcode-py/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Push1413/leetcode-py/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/Push1413/leetcode-py/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Push1413/leetcode-py/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Push1413/leetcode-py/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -118,4 +120,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Push1413/leetcode-py/tree/master/0322-coin-change) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Push1413/leetcode-py/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
