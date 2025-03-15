@@ -40,6 +40,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Push1413/leetcode-py/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Push1413/leetcode-py/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Push1413/leetcode-py/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Push1413/leetcode-py/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/Push1413/leetcode-py/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Push1413/leetcode-py/tree/master/0883-car-fleet) |
@@ -130,6 +131,7 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Push1413/leetcode-py/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Push1413/leetcode-py/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Push1413/leetcode-py/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Push1413/leetcode-py/tree/master/0110-balanced-binary-tree) |
@@ -139,6 +141,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Push1413/leetcode-py/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Push1413/leetcode-py/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Push1413/leetcode-py/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Push1413/leetcode-py/tree/master/0110-balanced-binary-tree) |
@@ -148,6 +151,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Push1413/leetcode-py/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Push1413/leetcode-py/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Push1413/leetcode-py/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Push1413/leetcode-py/tree/master/0110-balanced-binary-tree) |
