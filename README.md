@@ -140,6 +140,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Push1413/leetcode-py/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Push1413/leetcode-py/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Push1413/leetcode-py/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Push1413/leetcode-py/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Push1413/leetcode-py/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Push1413/leetcode-py/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
@@ -152,6 +153,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Push1413/leetcode-py/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Push1413/leetcode-py/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Push1413/leetcode-py/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Push1413/leetcode-py/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Push1413/leetcode-py/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Push1413/leetcode-py/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -164,6 +166,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Push1413/leetcode-py/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Push1413/leetcode-py/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Push1413/leetcode-py/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Push1413/leetcode-py/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Push1413/leetcode-py/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Push1413/leetcode-py/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
@@ -174,4 +177,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Push1413/leetcode-py/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Push1413/leetcode-py/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
