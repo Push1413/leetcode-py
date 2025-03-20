@@ -14,6 +14,7 @@
 | [0169-majority-element](https://github.com/Push1413/leetcode-py/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Push1413/leetcode-py/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/Push1413/leetcode-py/tree/master/0229-majority-element-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Push1413/leetcode-py/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Push1413/leetcode-py/tree/master/0322-coin-change) |
 | [0739-daily-temperatures](https://github.com/Push1413/leetcode-py/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Push1413/leetcode-py/tree/master/0747-min-cost-climbing-stairs) |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Push1413/leetcode-py/tree/master/0042-trapping-rain-water) |
+| [0287-find-the-duplicate-number](https://github.com/Push1413/leetcode-py/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Push1413/leetcode-py/tree/master/0074-search-a-2d-matrix) |
+| [0287-find-the-duplicate-number](https://github.com/Push1413/leetcode-py/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Push1413/leetcode-py/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Push1413/leetcode-py/tree/master/0907-koko-eating-bananas) |
 ## Matrix
@@ -200,4 +203,8 @@
 | [0098-validate-binary-search-tree](https://github.com/Push1413/leetcode-py/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Push1413/leetcode-py/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Push1413/leetcode-py/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Push1413/leetcode-py/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
