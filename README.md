@@ -24,6 +24,7 @@
 | [0792-binary-search](https://github.com/Push1413/leetcode-py/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Push1413/leetcode-py/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Push1413/leetcode-py/tree/master/0907-koko-eating-bananas) |
+| [1036-rotting-oranges](https://github.com/Push1413/leetcode-py/tree/master/1036-rotting-oranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Push1413/leetcode-py/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Push1413/leetcode-py/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Push1413/leetcode-py/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/Push1413/leetcode-py/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +142,7 @@
 | [0226-invert-binary-tree](https://github.com/Push1413/leetcode-py/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Push1413/leetcode-py/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/Push1413/leetcode-py/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/Push1413/leetcode-py/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Push1413/leetcode-py/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Greedy
 |  |
