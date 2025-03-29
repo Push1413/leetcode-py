@@ -234,4 +234,8 @@
 | [0130-surrounded-regions](https://github.com/Push1413/leetcode-py/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Push1413/leetcode-py/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Push1413/leetcode-py/tree/master/0695-max-area-of-island) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/Push1413/leetcode-py/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
