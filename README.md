@@ -26,6 +26,7 @@
 | [0883-car-fleet](https://github.com/Push1413/leetcode-py/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Push1413/leetcode-py/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/Push1413/leetcode-py/tree/master/1036-rotting-oranges) |
+| [1039-find-the-town-judge](https://github.com/Push1413/leetcode-py/tree/master/1039-find-the-town-judge) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [0141-linked-list-cycle](https://github.com/Push1413/leetcode-py/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Push1413/leetcode-py/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Push1413/leetcode-py/tree/master/0229-majority-element-ii) |
+| [1039-find-the-town-judge](https://github.com/Push1413/leetcode-py/tree/master/1039-find-the-town-judge) |
 ## Sliding Window
 |  |
 | ------- |
@@ -237,5 +239,6 @@
 ## Graph
 |  |
 | ------- |
+| [1039-find-the-town-judge](https://github.com/Push1413/leetcode-py/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/Push1413/leetcode-py/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
