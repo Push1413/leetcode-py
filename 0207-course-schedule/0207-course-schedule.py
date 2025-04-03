@@ -4,13 +4,10 @@ class Solution:
         graph = [[] for _ in range(numCourses)]
         inorder = [0] * numCourses
 
-        print(graph)
-
         for node, prerequisite in prerequisites:
             graph[prerequisite].append(node)
             inorder[node] +=1
         
-
         q = deque([i for i in range(numCourses) if inorder[i]==0])
         count = 0
 
