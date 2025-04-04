@@ -1,34 +1,30 @@
 class Solution:
-    def isValid(self,i,j,visited,grid):
-        row = len(grid)
-        col = len(grid[0])
-        return 0<=i<row and 0<=j<col and visited[i][j]!=1 and grid[i][j]=='1'
-    
-    def DFS(self,i,j,visited,grid):
-        visited[i][j] = 1
-        rows = len(grid)
-        cols = len(grid[0])
-        directions = [(1, 0), (0, 1), (-1, 0), (0, -1)]
-
-        for dir in directions:
-            newRow = i+dir[0]
-            newCol = j+dir[1]
-            if self.isValid(newRow,newCol,visited,grid):
-                self.DFS(newRow,newCol,visited,grid)
-
     def numIslands(self, grid: List[List[str]]) -> int:
-        if not grid or not grid[0]:  # Added empty grid check
+        if not grid:
             return 0
         rows = len(grid)
         cols = len(grid[0])
-        visited = [[0 for _ in range(cols)] for _ in range(rows)]
+        visited = [[0 for _ in range(cols)]for _ in range(rows)]
         count =0
+
+        def isSafe(newRow,newCol):
+            return 0<=newRow<rows and 0<=newCol<cols and grid[newRow][newCol]=="1" and visited[newRow][newCol]==0
+
+        def DFS(row,col):
+            visited[row][col] = 1
+            directions = [[1,0],[-1,0],[0,1],[0,-1]]
+
+            for rx,cy in directions:
+                newRow = row + rx
+                newCol = col + cy
+
+                if isSafe(newRow, newCol):
+                    DFS(newRow,newCol)
 
         for i in range(rows):
             for j in range(cols):
-                if visited[i][j]!=1 and grid[i][j]== '1':
+                if grid[i][j] == '1' and visited[i][j] == 0:
                     count+=1
-                    self.DFS(i,j,visited,grid)
+                    DFS(i,j)
+        
         return count
-
-  
