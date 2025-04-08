@@ -6,6 +6,7 @@ def canFinish(numCourses, prerequisites):
     inDegree = [0] * numCourses
 
     for src, dest in prerequisites:
+        # dest -> src
         adjList[dest].append(src)
         inDegree[src] +=1
 
@@ -26,6 +27,8 @@ def canFinish(numCourses, prerequisites):
 if __name__ =='__main__':
     numCourses = 2
     prerequisites = [[1,0]]
+    # 0 -> 1
+    # for 0 indegree is zero. for 1 indgree is 1 as 0 must be completed and then u can do 1
     print(canFinish( numCourses, prerequisites))
 
 
