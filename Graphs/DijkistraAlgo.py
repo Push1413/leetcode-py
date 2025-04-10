@@ -1,24 +1,24 @@
 import heapq
 from collections import defaultdict
+
 def networkDelayTime(times, n, k):
     adj_list = defaultdict(list)
 
-    for u,v,w in times:
-        adj_list[u].append((v,w))
+    for x,y,w in times:
+        adj_list[x].append((w, y))
 
-    visit = set()
+    visited=set()
     heap = [(0, k)]
-
     while heap:
-        time, node = heapq.heappop(heap)
-        visit.add(node)
+        travel_time, node = heapq.heappop(heap)
+        visited.add(node)
 
-        if len(visit)==n:
-            return time
+        if len(visited)==n:
+            return travel_time
 
-        for time2,node2 in adj_list[node]:
-            if node2 not in visit:
-                heapq.heappush(heap,(time2+time,node2))
+        for time, adjacent_node in adj_list[node]:
+            if adjacent_node not in visited:
+                heapq.heappush(heap, (travel_time+time, adjacent_node))
 
     return -1
 
