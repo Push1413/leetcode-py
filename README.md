@@ -29,6 +29,7 @@
 | [0990-verifying-an-alien-dictionary](https://github.com/Push1413/leetcode-py/tree/master/0990-verifying-an-alien-dictionary) |
 | [1036-rotting-oranges](https://github.com/Push1413/leetcode-py/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Push1413/leetcode-py/tree/master/1039-find-the-town-judge) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Push1413/leetcode-py/tree/master/1706-min-cost-to-connect-all-points) |
 ## Two Pointers
 |  |
 | ------- |
@@ -258,6 +259,7 @@
 | [0684-redundant-connection](https://github.com/Push1413/leetcode-py/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Push1413/leetcode-py/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Push1413/leetcode-py/tree/master/0801-is-graph-bipartite) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Push1413/leetcode-py/tree/master/1706-min-cost-to-connect-all-points) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Push1413/leetcode-py/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
@@ -268,6 +270,7 @@
 | [0744-network-delay-time](https://github.com/Push1413/leetcode-py/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/Push1413/leetcode-py/tree/master/0801-is-graph-bipartite) |
 | [1039-find-the-town-judge](https://github.com/Push1413/leetcode-py/tree/master/1039-find-the-town-judge) |
+| [1706-min-cost-to-connect-all-points](https://github.com/Push1413/leetcode-py/tree/master/1706-min-cost-to-connect-all-points) |
 | [1916-find-center-of-star-graph](https://github.com/Push1413/leetcode-py/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Push1413/leetcode-py/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
@@ -282,4 +285,8 @@
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Push1413/leetcode-py/tree/master/0744-network-delay-time) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/Push1413/leetcode-py/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
