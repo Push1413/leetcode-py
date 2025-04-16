@@ -28,6 +28,7 @@
 | [0883-car-fleet](https://github.com/Push1413/leetcode-py/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Push1413/leetcode-py/tree/master/0907-koko-eating-bananas) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Push1413/leetcode-py/tree/master/0990-verifying-an-alien-dictionary) |
+| [1014-k-closest-points-to-origin](https://github.com/Push1413/leetcode-py/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/Push1413/leetcode-py/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Push1413/leetcode-py/tree/master/1039-find-the-town-judge) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Push1413/leetcode-py/tree/master/1706-min-cost-to-connect-all-points) |
@@ -80,6 +81,7 @@
 | [0062-unique-paths](https://github.com/Push1413/leetcode-py/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Push1413/leetcode-py/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Push1413/leetcode-py/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1014-k-closest-points-to-origin](https://github.com/Push1413/leetcode-py/tree/master/1014-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
@@ -87,6 +89,7 @@
 | [0169-majority-element](https://github.com/Push1413/leetcode-py/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Push1413/leetcode-py/tree/master/0229-majority-element-ii) |
 | [0883-car-fleet](https://github.com/Push1413/leetcode-py/tree/master/0883-car-fleet) |
+| [1014-k-closest-points-to-origin](https://github.com/Push1413/leetcode-py/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,6 +131,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Push1413/leetcode-py/tree/master/0169-majority-element) |
+| [1014-k-closest-points-to-origin](https://github.com/Push1413/leetcode-py/tree/master/1014-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -283,6 +287,7 @@
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Push1413/leetcode-py/tree/master/0744-network-delay-time) |
+| [1014-k-closest-points-to-origin](https://github.com/Push1413/leetcode-py/tree/master/1014-k-closest-points-to-origin) |
 ## Shortest Path
 |  |
 | ------- |
@@ -295,4 +300,12 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Push1413/leetcode-py/tree/master/0560-subarray-sum-equals-k) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Push1413/leetcode-py/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Push1413/leetcode-py/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
