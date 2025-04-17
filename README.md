@@ -62,6 +62,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Push1413/leetcode-py/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/Push1413/leetcode-py/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Push1413/leetcode-py/tree/master/0883-car-fleet) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Push1413/leetcode-py/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [0020-valid-parentheses](https://github.com/Push1413/leetcode-py/tree/master/0020-valid-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Push1413/leetcode-py/tree/master/0273-integer-to-english-words) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Push1413/leetcode-py/tree/master/0990-verifying-an-alien-dictionary) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Push1413/leetcode-py/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Math
 |  |
 | ------- |
