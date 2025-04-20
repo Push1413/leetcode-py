@@ -76,6 +76,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Push1413/leetcode-py/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Push1413/leetcode-py/tree/master/0020-valid-parentheses) |
 | [0273-integer-to-english-words](https://github.com/Push1413/leetcode-py/tree/master/0273-integer-to-english-words) |
+| [0301-remove-invalid-parentheses](https://github.com/Push1413/leetcode-py/tree/master/0301-remove-invalid-parentheses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Push1413/leetcode-py/tree/master/0990-verifying-an-alien-dictionary) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Push1413/leetcode-py/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Math
@@ -171,6 +172,7 @@
 | [0200-number-of-islands](https://github.com/Push1413/leetcode-py/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Push1413/leetcode-py/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Push1413/leetcode-py/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Push1413/leetcode-py/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Push1413/leetcode-py/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Push1413/leetcode-py/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/Push1413/leetcode-py/tree/master/0684-redundant-connection) |
@@ -320,4 +322,8 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Push1413/leetcode-py/tree/master/1014-k-closest-points-to-origin) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Push1413/leetcode-py/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
