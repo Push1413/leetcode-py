@@ -35,6 +35,7 @@
 | [1039-find-the-town-judge](https://github.com/Push1413/leetcode-py/tree/master/1039-find-the-town-judge) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Push1413/leetcode-py/tree/master/1207-delete-nodes-and-return-forest) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Push1413/leetcode-py/tree/master/1706-min-cost-to-connect-all-points) |
+| [1876-map-of-highest-peak](https://github.com/Push1413/leetcode-py/tree/master/1876-map-of-highest-peak) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 | [0542-01-matrix](https://github.com/Push1413/leetcode-py/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Push1413/leetcode-py/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/Push1413/leetcode-py/tree/master/1036-rotting-oranges) |
+| [1876-map-of-highest-peak](https://github.com/Push1413/leetcode-py/tree/master/1876-map-of-highest-peak) |
 ## Hash Table
 |  |
 | ------- |
@@ -185,6 +187,7 @@
 | [0801-is-graph-bipartite](https://github.com/Push1413/leetcode-py/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/Push1413/leetcode-py/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Push1413/leetcode-py/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1876-map-of-highest-peak](https://github.com/Push1413/leetcode-py/tree/master/1876-map-of-highest-peak) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Push1413/leetcode-py/tree/master/2121-find-if-path-exists-in-graph) |
 ## Greedy
 |  |
