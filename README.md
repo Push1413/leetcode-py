@@ -21,6 +21,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Push1413/leetcode-py/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Push1413/leetcode-py/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Push1413/leetcode-py/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/Push1413/leetcode-py/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Push1413/leetcode-py/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/Push1413/leetcode-py/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/Push1413/leetcode-py/tree/master/0739-daily-temperatures) |
@@ -51,6 +52,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Push1413/leetcode-py/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Push1413/leetcode-py/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Push1413/leetcode-py/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/Push1413/leetcode-py/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/Push1413/leetcode-py/tree/master/0747-min-cost-climbing-stairs) |
 ## Stack
 |  |
@@ -111,6 +113,7 @@
 | [0130-surrounded-regions](https://github.com/Push1413/leetcode-py/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Push1413/leetcode-py/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Push1413/leetcode-py/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/Push1413/leetcode-py/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Push1413/leetcode-py/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/Push1413/leetcode-py/tree/master/1036-rotting-oranges) |
 ## Hash Table
@@ -175,6 +178,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/Push1413/leetcode-py/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Push1413/leetcode-py/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Push1413/leetcode-py/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/Push1413/leetcode-py/tree/master/0542-01-matrix) |
 | [0684-redundant-connection](https://github.com/Push1413/leetcode-py/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Push1413/leetcode-py/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/Push1413/leetcode-py/tree/master/0744-network-delay-time) |
