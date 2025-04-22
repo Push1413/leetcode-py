@@ -4,31 +4,25 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-import queue
 class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         if not root:
             return []
-        my_queue = queue.Queue()
-        my_queue.put(root)
-        result = []
+        ans = [[root.val]]
+        queue = deque([root])
 
-        while not my_queue.empty():
-            level_size = my_queue.qsize()  # Get the number of nodes at the current level
+        while queue:
+            size = len(queue)
             temp = []
-
-            for _ in range(level_size):
-                curr = my_queue.get()
-                temp.append(curr.val)
+            for _ in range(size):
+                curr = queue.popleft()
                 if curr.left:
-                    my_queue.put(curr.left)
+                    queue.append(curr.left)
+                    temp.append(curr.left.val)
                 if curr.right:
-                    my_queue.put(curr.right)
-            result.append(temp)
-        return result
-            
-
-
-
-
-        
+                    queue.append(curr.right)
+                    temp.append(curr.right.val)
+            if len(temp)!=0:
+                ans.append(temp)   
+        return ans
+                    
