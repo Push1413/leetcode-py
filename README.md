@@ -37,6 +37,7 @@
 | [1036-rotting-oranges](https://github.com/Push1413/leetcode-py/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Push1413/leetcode-py/tree/master/1039-find-the-town-judge) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Push1413/leetcode-py/tree/master/1207-delete-nodes-and-return-forest) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Push1413/leetcode-py/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Push1413/leetcode-py/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Push1413/leetcode-py/tree/master/1706-min-cost-to-connect-all-points) |
 | [1876-map-of-highest-peak](https://github.com/Push1413/leetcode-py/tree/master/1876-map-of-highest-peak) |
@@ -98,6 +99,7 @@
 | [0268-missing-number](https://github.com/Push1413/leetcode-py/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Push1413/leetcode-py/tree/master/0273-integer-to-english-words) |
 | [1014-k-closest-points-to-origin](https://github.com/Push1413/leetcode-py/tree/master/1014-k-closest-points-to-origin) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Push1413/leetcode-py/tree/master/1395-minimum-time-visiting-all-points) |
 ## Sorting
 |  |
 | ------- |
@@ -344,6 +346,7 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Push1413/leetcode-py/tree/master/1014-k-closest-points-to-origin) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Push1413/leetcode-py/tree/master/1395-minimum-time-visiting-all-points) |
 ## Quickselect
 |  |
 | ------- |
