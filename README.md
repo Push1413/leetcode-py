@@ -37,6 +37,7 @@
 | [1036-rotting-oranges](https://github.com/Push1413/leetcode-py/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Push1413/leetcode-py/tree/master/1039-find-the-town-judge) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Push1413/leetcode-py/tree/master/1207-delete-nodes-and-return-forest) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Push1413/leetcode-py/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Push1413/leetcode-py/tree/master/1706-min-cost-to-connect-all-points) |
 | [1876-map-of-highest-peak](https://github.com/Push1413/leetcode-py/tree/master/1876-map-of-highest-peak) |
 ## Two Pointers
@@ -107,6 +108,7 @@
 | [0268-missing-number](https://github.com/Push1413/leetcode-py/tree/master/0268-missing-number) |
 | [0883-car-fleet](https://github.com/Push1413/leetcode-py/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/Push1413/leetcode-py/tree/master/1014-k-closest-points-to-origin) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Push1413/leetcode-py/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -141,6 +143,7 @@
 | [0990-verifying-an-alien-dictionary](https://github.com/Push1413/leetcode-py/tree/master/0990-verifying-an-alien-dictionary) |
 | [1039-find-the-town-judge](https://github.com/Push1413/leetcode-py/tree/master/1039-find-the-town-judge) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Push1413/leetcode-py/tree/master/1207-delete-nodes-and-return-forest) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Push1413/leetcode-py/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -349,4 +352,8 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Push1413/leetcode-py/tree/master/0301-remove-invalid-parentheses) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Push1413/leetcode-py/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
