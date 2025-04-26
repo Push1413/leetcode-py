@@ -89,6 +89,7 @@
 | [0415-add-strings](https://github.com/Push1413/leetcode-py/tree/master/0415-add-strings) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Push1413/leetcode-py/tree/master/0990-verifying-an-alien-dictionary) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Push1413/leetcode-py/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Push1413/leetcode-py/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Math
 |  |
 | ------- |
@@ -148,6 +149,7 @@
 | [1039-find-the-town-judge](https://github.com/Push1413/leetcode-py/tree/master/1039-find-the-town-judge) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Push1413/leetcode-py/tree/master/1207-delete-nodes-and-return-forest) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Push1413/leetcode-py/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Push1413/leetcode-py/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Sliding Window
 |  |
 | ------- |
@@ -169,6 +171,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Push1413/leetcode-py/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Push1413/leetcode-py/tree/master/0229-majority-element-ii) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Push1413/leetcode-py/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Combinatorics
 |  |
 | ------- |
