@@ -39,6 +39,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/Push1413/leetcode-py/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/Push1413/leetcode-py/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Push1413/leetcode-py/tree/master/1039-find-the-town-judge) |
+| [1127-last-stone-weight](https://github.com/Push1413/leetcode-py/tree/master/1127-last-stone-weight) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Push1413/leetcode-py/tree/master/1207-delete-nodes-and-return-forest) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Push1413/leetcode-py/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Push1413/leetcode-py/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -351,6 +352,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Push1413/leetcode-py/tree/master/0215-kth-largest-element-in-an-array) |
 | [0744-network-delay-time](https://github.com/Push1413/leetcode-py/tree/master/0744-network-delay-time) |
 | [1014-k-closest-points-to-origin](https://github.com/Push1413/leetcode-py/tree/master/1014-k-closest-points-to-origin) |
+| [1127-last-stone-weight](https://github.com/Push1413/leetcode-py/tree/master/1127-last-stone-weight) |
 ## Shortest Path
 |  |
 | ------- |
