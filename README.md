@@ -29,6 +29,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Push1413/leetcode-py/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0542-01-matrix](https://github.com/Push1413/leetcode-py/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Push1413/leetcode-py/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Push1413/leetcode-py/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/Push1413/leetcode-py/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/Push1413/leetcode-py/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/Push1413/leetcode-py/tree/master/0747-min-cost-climbing-stairs) |
@@ -118,6 +119,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Push1413/leetcode-py/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Push1413/leetcode-py/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Push1413/leetcode-py/tree/master/0268-missing-number) |
+| [0621-task-scheduler](https://github.com/Push1413/leetcode-py/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/Push1413/leetcode-py/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/Push1413/leetcode-py/tree/master/1014-k-closest-points-to-origin) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Push1413/leetcode-py/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -152,6 +154,7 @@
 | [0268-missing-number](https://github.com/Push1413/leetcode-py/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Push1413/leetcode-py/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Push1413/leetcode-py/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Push1413/leetcode-py/tree/master/0621-task-scheduler) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Push1413/leetcode-py/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Push1413/leetcode-py/tree/master/0990-verifying-an-alien-dictionary) |
 | [1039-find-the-town-judge](https://github.com/Push1413/leetcode-py/tree/master/1039-find-the-town-judge) |
@@ -181,6 +184,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Push1413/leetcode-py/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Push1413/leetcode-py/tree/master/0229-majority-element-ii) |
+| [0621-task-scheduler](https://github.com/Push1413/leetcode-py/tree/master/0621-task-scheduler) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Push1413/leetcode-py/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Combinatorics
 |  |
@@ -227,6 +231,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Push1413/leetcode-py/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Push1413/leetcode-py/tree/master/0045-jump-game-ii) |
+| [0621-task-scheduler](https://github.com/Push1413/leetcode-py/tree/master/0621-task-scheduler) |
 ## Tree
 |  |
 | ------- |
@@ -350,6 +355,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Push1413/leetcode-py/tree/master/0215-kth-largest-element-in-an-array) |
+| [0621-task-scheduler](https://github.com/Push1413/leetcode-py/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/Push1413/leetcode-py/tree/master/0744-network-delay-time) |
 | [1014-k-closest-points-to-origin](https://github.com/Push1413/leetcode-py/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Push1413/leetcode-py/tree/master/1127-last-stone-weight) |
