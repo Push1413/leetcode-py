@@ -81,6 +81,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Push1413/leetcode-py/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Push1413/leetcode-py/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Push1413/leetcode-py/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0394-decode-string](https://github.com/Push1413/leetcode-py/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Push1413/leetcode-py/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Push1413/leetcode-py/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Push1413/leetcode-py/tree/master/0735-asteroid-collision) |
@@ -102,6 +103,7 @@
 | [0071-simplify-path](https://github.com/Push1413/leetcode-py/tree/master/0071-simplify-path) |
 | [0273-integer-to-english-words](https://github.com/Push1413/leetcode-py/tree/master/0273-integer-to-english-words) |
 | [0301-remove-invalid-parentheses](https://github.com/Push1413/leetcode-py/tree/master/0301-remove-invalid-parentheses) |
+| [0394-decode-string](https://github.com/Push1413/leetcode-py/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/Push1413/leetcode-py/tree/master/0415-add-strings) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Push1413/leetcode-py/tree/master/0990-verifying-an-alien-dictionary) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Push1413/leetcode-py/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -183,6 +185,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Push1413/leetcode-py/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Push1413/leetcode-py/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/Push1413/leetcode-py/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/Push1413/leetcode-py/tree/master/0394-decode-string) |
 ## Divide and Conquer
 |  |
 | ------- |
