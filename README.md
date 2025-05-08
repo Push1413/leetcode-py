@@ -76,6 +76,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Push1413/leetcode-py/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Push1413/leetcode-py/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Push1413/leetcode-py/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Push1413/leetcode-py/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Push1413/leetcode-py/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Push1413/leetcode-py/tree/master/0145-binary-tree-postorder-traversal) |
@@ -98,6 +99,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Push1413/leetcode-py/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Push1413/leetcode-py/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Push1413/leetcode-py/tree/master/0071-simplify-path) |
 | [0273-integer-to-english-words](https://github.com/Push1413/leetcode-py/tree/master/0273-integer-to-english-words) |
 | [0301-remove-invalid-parentheses](https://github.com/Push1413/leetcode-py/tree/master/0301-remove-invalid-parentheses) |
 | [0415-add-strings](https://github.com/Push1413/leetcode-py/tree/master/0415-add-strings) |
