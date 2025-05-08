@@ -27,6 +27,7 @@
 | [0322-coin-change](https://github.com/Push1413/leetcode-py/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Push1413/leetcode-py/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Push1413/leetcode-py/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Push1413/leetcode-py/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/Push1413/leetcode-py/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Push1413/leetcode-py/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Push1413/leetcode-py/tree/master/0621-task-scheduler) |
@@ -77,6 +78,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Push1413/leetcode-py/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Push1413/leetcode-py/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Push1413/leetcode-py/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0496-next-greater-element-i](https://github.com/Push1413/leetcode-py/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Push1413/leetcode-py/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Push1413/leetcode-py/tree/master/0883-car-fleet) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Push1413/leetcode-py/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -84,6 +86,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Push1413/leetcode-py/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Push1413/leetcode-py/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Push1413/leetcode-py/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Push1413/leetcode-py/tree/master/0883-car-fleet) |
 ## String
@@ -153,6 +156,7 @@
 | [0229-majority-element-ii](https://github.com/Push1413/leetcode-py/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Push1413/leetcode-py/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Push1413/leetcode-py/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Push1413/leetcode-py/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Push1413/leetcode-py/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Push1413/leetcode-py/tree/master/0621-task-scheduler) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Push1413/leetcode-py/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
