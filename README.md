@@ -19,6 +19,7 @@
 | [0169-majority-element](https://github.com/Push1413/leetcode-py/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Push1413/leetcode-py/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Push1413/leetcode-py/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/Push1413/leetcode-py/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Push1413/leetcode-py/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Push1413/leetcode-py/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Push1413/leetcode-py/tree/master/0229-majority-element-ii) |
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Push1413/leetcode-py/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/Push1413/leetcode-py/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Push1413/leetcode-py/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Push1413/leetcode-py/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/Push1413/leetcode-py/tree/master/0658-find-k-closest-elements) |
@@ -184,6 +186,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Push1413/leetcode-py/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Push1413/leetcode-py/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Push1413/leetcode-py/tree/master/0219-contains-duplicate-ii) |
 | [0658-find-k-closest-elements](https://github.com/Push1413/leetcode-py/tree/master/0658-find-k-closest-elements) |
 ## Recursion
@@ -392,6 +395,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Push1413/leetcode-py/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Push1413/leetcode-py/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Push1413/leetcode-py/tree/master/0560-subarray-sum-equals-k) |
 ## Geometry
