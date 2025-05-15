@@ -32,6 +32,7 @@
 | [0542-01-matrix](https://github.com/Push1413/leetcode-py/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Push1413/leetcode-py/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Push1413/leetcode-py/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/Push1413/leetcode-py/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Push1413/leetcode-py/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/Push1413/leetcode-py/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/Push1413/leetcode-py/tree/master/0735-asteroid-collision) |
@@ -59,6 +60,7 @@
 | [0042-trapping-rain-water](https://github.com/Push1413/leetcode-py/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Push1413/leetcode-py/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/Push1413/leetcode-py/tree/master/0287-find-the-duplicate-number) |
+| [0658-find-k-closest-elements](https://github.com/Push1413/leetcode-py/tree/master/0658-find-k-closest-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -134,6 +136,7 @@
 | [0229-majority-element-ii](https://github.com/Push1413/leetcode-py/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Push1413/leetcode-py/tree/master/0268-missing-number) |
 | [0621-task-scheduler](https://github.com/Push1413/leetcode-py/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/Push1413/leetcode-py/tree/master/0658-find-k-closest-elements) |
 | [0883-car-fleet](https://github.com/Push1413/leetcode-py/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/Push1413/leetcode-py/tree/master/1014-k-closest-points-to-origin) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Push1413/leetcode-py/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -143,6 +146,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Push1413/leetcode-py/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Push1413/leetcode-py/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Push1413/leetcode-py/tree/master/0287-find-the-duplicate-number) |
+| [0658-find-k-closest-elements](https://github.com/Push1413/leetcode-py/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/Push1413/leetcode-py/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Push1413/leetcode-py/tree/master/0907-koko-eating-bananas) |
 ## Matrix
@@ -181,6 +185,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Push1413/leetcode-py/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Push1413/leetcode-py/tree/master/0219-contains-duplicate-ii) |
+| [0658-find-k-closest-elements](https://github.com/Push1413/leetcode-py/tree/master/0658-find-k-closest-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -372,6 +377,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Push1413/leetcode-py/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/Push1413/leetcode-py/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/Push1413/leetcode-py/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/Push1413/leetcode-py/tree/master/0744-network-delay-time) |
 | [1014-k-closest-points-to-origin](https://github.com/Push1413/leetcode-py/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Push1413/leetcode-py/tree/master/1127-last-stone-weight) |
