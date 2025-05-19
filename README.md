@@ -275,6 +275,7 @@
 | [0226-invert-binary-tree](https://github.com/Push1413/leetcode-py/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Push1413/leetcode-py/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Push1413/leetcode-py/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Push1413/leetcode-py/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Push1413/leetcode-py/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Push1413/leetcode-py/tree/master/0572-subtree-of-another-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Push1413/leetcode-py/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -327,6 +328,7 @@
 | [0226-invert-binary-tree](https://github.com/Push1413/leetcode-py/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Push1413/leetcode-py/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Push1413/leetcode-py/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Push1413/leetcode-py/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Push1413/leetcode-py/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Push1413/leetcode-py/tree/master/0572-subtree-of-another-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Push1413/leetcode-py/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -346,6 +348,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Push1413/leetcode-py/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Push1413/leetcode-py/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Push1413/leetcode-py/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Push1413/leetcode-py/tree/master/0450-delete-node-in-a-bst) |
 ## Bit Manipulation
 |  |
 | ------- |
