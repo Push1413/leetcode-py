@@ -280,6 +280,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Push1413/leetcode-py/tree/master/0572-subtree-of-another-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Push1413/leetcode-py/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Push1413/leetcode-py/tree/master/1207-delete-nodes-and-return-forest) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Push1413/leetcode-py/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Push1413/leetcode-py/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -309,6 +310,7 @@
 | [0801-is-graph-bipartite](https://github.com/Push1413/leetcode-py/tree/master/0801-is-graph-bipartite) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Push1413/leetcode-py/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Push1413/leetcode-py/tree/master/1207-delete-nodes-and-return-forest) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Push1413/leetcode-py/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Push1413/leetcode-py/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Push1413/leetcode-py/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -333,6 +335,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Push1413/leetcode-py/tree/master/0572-subtree-of-another-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Push1413/leetcode-py/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Push1413/leetcode-py/tree/master/1207-delete-nodes-and-return-forest) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/Push1413/leetcode-py/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Push1413/leetcode-py/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
