@@ -169,6 +169,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Push1413/leetcode-py/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0133-clone-graph](https://github.com/Push1413/leetcode-py/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/Push1413/leetcode-py/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Push1413/leetcode-py/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Push1413/leetcode-py/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Push1413/leetcode-py/tree/master/0219-contains-duplicate-ii) |
@@ -225,6 +226,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Push1413/leetcode-py/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Push1413/leetcode-py/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/Push1413/leetcode-py/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Push1413/leetcode-py/tree/master/0141-linked-list-cycle) |
 ## Breadth-First Search
 |  |
