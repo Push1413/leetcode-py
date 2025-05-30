@@ -44,6 +44,7 @@
 | [0792-binary-search](https://github.com/Push1413/leetcode-py/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Push1413/leetcode-py/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/Push1413/leetcode-py/tree/master/0907-koko-eating-bananas) |
+| [0917-boats-to-save-people](https://github.com/Push1413/leetcode-py/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Push1413/leetcode-py/tree/master/0948-sort-an-array) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Push1413/leetcode-py/tree/master/0990-verifying-an-alien-dictionary) |
 | [1014-k-closest-points-to-origin](https://github.com/Push1413/leetcode-py/tree/master/1014-k-closest-points-to-origin) |
@@ -66,6 +67,7 @@
 | [0141-linked-list-cycle](https://github.com/Push1413/leetcode-py/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/Push1413/leetcode-py/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/Push1413/leetcode-py/tree/master/0658-find-k-closest-elements) |
+| [0917-boats-to-save-people](https://github.com/Push1413/leetcode-py/tree/master/0917-boats-to-save-people) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -144,6 +146,7 @@
 | [0621-task-scheduler](https://github.com/Push1413/leetcode-py/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/Push1413/leetcode-py/tree/master/0658-find-k-closest-elements) |
 | [0883-car-fleet](https://github.com/Push1413/leetcode-py/tree/master/0883-car-fleet) |
+| [0917-boats-to-save-people](https://github.com/Push1413/leetcode-py/tree/master/0917-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Push1413/leetcode-py/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Push1413/leetcode-py/tree/master/1014-k-closest-points-to-origin) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Push1413/leetcode-py/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -268,6 +271,7 @@
 | [0011-container-with-most-water](https://github.com/Push1413/leetcode-py/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Push1413/leetcode-py/tree/master/0045-jump-game-ii) |
 | [0621-task-scheduler](https://github.com/Push1413/leetcode-py/tree/master/0621-task-scheduler) |
+| [0917-boats-to-save-people](https://github.com/Push1413/leetcode-py/tree/master/0917-boats-to-save-people) |
 ## Tree
 |  |
 | ------- |
