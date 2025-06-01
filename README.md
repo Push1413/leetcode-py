@@ -68,6 +68,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Push1413/leetcode-py/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/Push1413/leetcode-py/tree/master/0658-find-k-closest-elements) |
 | [0917-boats-to-save-people](https://github.com/Push1413/leetcode-py/tree/master/0917-boats-to-save-people) |
+| [1894-merge-strings-alternately](https://github.com/Push1413/leetcode-py/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,6 +120,7 @@
 | [0415-add-strings](https://github.com/Push1413/leetcode-py/tree/master/0415-add-strings) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Push1413/leetcode-py/tree/master/0990-verifying-an-alien-dictionary) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Push1413/leetcode-py/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1894-merge-strings-alternately](https://github.com/Push1413/leetcode-py/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Push1413/leetcode-py/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Math
 |  |
