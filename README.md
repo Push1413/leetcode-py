@@ -56,6 +56,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Push1413/leetcode-py/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Push1413/leetcode-py/tree/master/1706-min-cost-to-connect-all-points) |
 | [1876-map-of-highest-peak](https://github.com/Push1413/leetcode-py/tree/master/1876-map-of-highest-peak) |
+| [2058-concatenation-of-array](https://github.com/Push1413/leetcode-py/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -449,6 +450,7 @@
 | [0415-add-strings](https://github.com/Push1413/leetcode-py/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Push1413/leetcode-py/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Push1413/leetcode-py/tree/master/0735-asteroid-collision) |
+| [2058-concatenation-of-array](https://github.com/Push1413/leetcode-py/tree/master/2058-concatenation-of-array) |
 ## Merge Sort
 |  |
 | ------- |
